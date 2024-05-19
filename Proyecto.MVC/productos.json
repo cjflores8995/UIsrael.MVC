@@ -1,0 +1,37 @@
+[
+  {
+    "Id": "b3b4e75e-6dd4-4b2c-8e3c-1d5c8e2b8a1a",
+    "Nombre": "Laptop",
+    "Descripcion": "Laptop Dell XPS 13",
+    "Cantidad": 10,
+    "Precio": 857.50
+  },
+  {
+    "Id": "c9f5c0f2-8d64-4b2c-8d54-5e8b8e2e9a1b",
+    "Nombre": "Celular",
+    "Descripcion": "iPhone 13 Pro",
+    "Cantidad": 15,
+    "Precio": 950.50
+  },
+  {
+    "Id": "d1c6d3a6-4e74-42d6-8e1c-7e8c8e2e8b1c",
+    "Nombre": "PC",
+    "Descripcion": "PC Gaming ASUS",
+    "Cantidad": 5,
+    "Precio": 1499.25
+  },
+  {
+    "Id": "e5e8e1c1-5d84-4f2c-8c3c-8e8b8e2e8a1d",
+    "Nombre": "Monitor",
+    "Descripcion": "Monitor 4K Samsung",
+    "Cantidad": 20,
+    "Precio": 350.89
+  },
+  {
+    "Id": "f1a2e3d4-6f74-4c2c-8d1c-9e8b8e2e8b1e",
+    "Nombre": "Teclado",
+    "Descripcion": "Teclado Mecanico Logitech",
+    "Cantidad": 25,
+    "Precio": 88.75
+  }
+]

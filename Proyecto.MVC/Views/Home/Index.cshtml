@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Listado De Productos";
+}
+@model List<Proyecto.MVC.Models.Producto>
+
+<div class="container mt-5">
+    <h1 class="mb-4">Lista de Productos</h1>
+    <table class="table table-bordered table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th>Nombre</th>
+                <th>Descripción</th>
+                <th>Cantidad</th>
+                <th>Precio</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.Nombre</td>
+                    <td>@product.Descripcion</td>
+                    <td>@product.Cantidad</td>
+                    <td>@product.Precio</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
